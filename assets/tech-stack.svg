@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="280" viewBox="0 0 550 280">
+  <defs>
+    <pattern id="scan-t" width="550" height="4" patternUnits="userSpaceOnUse">
+      <rect width="550" height="1" fill="#ffffff" opacity="0.02"/>
+    </pattern>
+  </defs>
+
+  <!-- Terminal Window -->
+  <rect width="550" height="280" rx="8" fill="#0a0a0a" stroke="#1e1e1e" stroke-width="1"/>
+
+  <!-- Title Bar -->
+  <rect width="550" height="34" rx="8" fill="#141414"/>
+  <rect y="26" width="550" height="8" fill="#141414"/>
+  <line x1="0" y1="34" x2="550" y2="34" stroke="#1e1e1e" stroke-width="0.5"/>
+
+  <!-- Window Dots -->
+  <circle cx="16" cy="17" r="4.5" fill="#333"/>
+  <circle cx="33" cy="17" r="4.5" fill="#2a2a2a"/>
+  <circle cx="50" cy="17" r="4.5" fill="#222"/>
+
+  <!-- Title -->
+  <text x="275" y="21" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#555">stack.yml</text>
+
+  <!-- Scanlines -->
+  <rect y="34" width="550" height="246" fill="url(#scan-t)"/>
+
+  <!-- Command -->
+  <text x="20" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#555">$</text>
+  <text x="34" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#ccc"> cat stack.yml</text>
+
+  <!-- Key-Value Pairs -->
+  <text x="20" y="92" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">languages:</text>
+  <text x="160" y="92" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Go, PHP, TypeScript</text>
+
+  <text x="20" y="114" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">frontend:</text>
+  <text x="160" y="114" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">React, Next.js</text>
+
+  <text x="20" y="136" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">backend:</text>
+  <text x="160" y="136" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Laravel, Express.js</text>
+
+  <text x="20" y="158" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">database:</text>
+  <text x="160" y="158" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">PostgreSQL</text>
+
+  <text x="20" y="180" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">devops:</text>
+  <text x="160" y="180" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Docker, Linux</text>
+
+  <text x="20" y="202" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">tools:</text>
+  <text x="160" y="202" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Neovim, Git</text>
+
+  <text x="20" y="234" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#555">---</text>
+
+  <text x="20" y="256" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">focus:</text>
+  <text x="160" y="256" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">SayembaraForum</text>
+</svg>
