@@ -1,10 +1,5 @@
 <div align="center">
 <svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&amp;display=swap');
-    </style>
-  </defs>
   <image href="assets/johan.gif" width="100%" height="300" preserveAspectRatio="xMidYMid slice" />
   <rect width="100%" height="300" fill="black" fill-opacity="0.7" />
   <text
