@@ -1,24 +1,33 @@
 <div align="center">
-
-<img src="assets/johan.gif" width="100%" />
-
-<br/>
-
-# Hanif Setyananda
-
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&amp;display=swap');
+    </style>
+  </defs>
+  <image href="assets/johan.gif" width="100%" height="300" preserveAspectRatio="xMidYMid slice" />
+  <rect width="100%" height="300" fill="black" fill-opacity="0.7" />
+  <text
+    x="50%"
+    y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    fill="white"
+    font-size="32"
+    font-weight="700"
+    font-family="'Source Code Pro', monospace"
+  >Hanif Setyananda</text>
+</svg>
 </div>
-
-<br/>
-
 <!-- ROW 1: hand.gif | about me -->
 
-<table>
+<table border="0">
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="assets/hand.gif" width="200" />
+<img src="assets/hand.gif" width="200" height="280" />
 </td>
 <td width="70%">
-<img src="assets/about-me.svg" width="100%" />
+<img src="assets/about-me.svg"  height="100%"/>
 </td>
 </tr>
 </table>
@@ -27,18 +36,22 @@
 
 <!-- ROW 2: tech stack | hold.gif -->
 
-<table>
+<table border="0">
 <tr>
 <td width="70%">
 <img src="assets/tech-stack.svg" width="100%" />
 </td>
 <td width="30%" align="center" valign="middle">
-<img src="assets/hold.gif" width="200" />
+<img src="assets/hold.gif" width="200" height="280"/>
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+<div align="center">
+
+#### idk bout these stats, they look cool so i slap em onto my homepage
 
 <div align="center">
 
@@ -56,52 +69,26 @@
 ![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-### idk bout these stats, they look cool so i slap em onto my homepage
-
-<br/>
-
+<!-- 
 <a href="https://github.com/hanifsetyananda">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hanifsetyananda&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=fff&icon_color=666&text_color=aaa" />
 </a>
 <a href="https://github.com/hanifsetyananda">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifsetyananda&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=fff&text_color=aaa" />
-</a>
-
-<br/><br/>
+</a> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanifsetyananda&theme=github-dark-blue&hide_border=true&background=0a0a0a&ring=fff&fire=fff&currStreakLabel=aaa&sideLabels=aaa&currStreakNum=fff&sideNums=fff&dates=555" />
 
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanifsetyananda&bg_color=0a0a0a&color=aaa&line=fff&point=fff&area=true&area_color=333&hide_border=true" width="95%" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### weekly dev breakdown
-
-</div>
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-
-<br/>
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=hanifsetyananda&style=flat-square&color=111)
+![](https://komarev.com/ghpvc/?username=hanifsetyananda&style=for-the-badge&color=111111)
 
 </div>

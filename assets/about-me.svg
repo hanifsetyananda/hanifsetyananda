@@ -19,40 +19,54 @@
   <circle cx="50" cy="17" r="4.5" fill="#222"/>
 
   <!-- Title -->
-  <text x="275" y="21" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#555">about_me.yml</text>
+  <text x="275" y="21" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" fill="#555">readme.txt</text>
 
   <!-- Scanlines -->
   <rect y="34" width="550" height="246" fill="url(#scan-a)"/>
 
   <!-- Command -->
-  <text x="20" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#555">$</text>
-  <text x="34" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#ccc"> cat about_me.yml</text>
+  <text x="20" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#0cce2dff">$</text>
+  <text x="34" y="60" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#ccccccff"> cat readme.txt</text>
 
-  <!-- Key-Value Pairs -->
-  <text x="20" y="92" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">name:</text>
-  <text x="140" y="92" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Hanif Setyananda</text>
-
-  <text x="20" y="114" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">location:</text>
-  <text x="140" y="114" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Indonesia</text>
-
-  <text x="20" y="136" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">editor:</text>
-  <text x="140" y="136" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Neovim</text>
-
-  <text x="20" y="158" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">os:</text>
-  <text x="140" y="158" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Linux</text>
-
-  <text x="20" y="180" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">anime:</text>
-  <text x="140" y="180" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">Monster</text>
-
-  <text x="20" y="202" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">games:</text>
-  <text x="140" y="202" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">HoK, Valorant</text>
-
-  <text x="20" y="224" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#666">contact:</text>
-  <text x="140" y="224" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#eee">@hanifsetyananda</text>
+  <!-- Divider top -->
+  <text x="16" y="76" font-family="'Courier New', monospace" font-size="13" fill="#3a3a3a">+----------------------------------------------------------+</text>
+ 
+  <!-- name -->
+  <text x="16" y="96" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="96" font-family="'Courier New', monospace" font-size="13" fill="#888">me name hanif </text>
+ 
+  <!-- games -->
+  <text x="16" y="116" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="116" font-family="'Courier New', monospace" font-size="13" fill="#888">sweaty hok gamer | retired osu gamer | competitive val enjoyer</text>
+ 
+  <!-- fesnuk -->
+  <text x="16" y="136" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="136" font-family="'Courier New', monospace" font-size="13" fill="#888">always scroll fesnuk</text>
+ 
+  <!-- anime -->
+  <text x="16" y="156" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="156" font-family="'Courier New', monospace" font-size="13" fill="#888">my top anime : monster, claymore, hack//gu</text>
+ 
+  <!-- vim -->
+  <text x="16" y="176" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="176" font-family="'Courier New', monospace" font-size="13" fill="#c8a000" font-style="italic">i use vim btw</text>
+ 
+  <!-- leetcode -->
+  <text x="16" y="196" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="196" font-family="'Courier New', monospace" font-size="13" fill="#888">still grinding leetcode for boasting</text>
+ 
+  <!-- contact -->
+  <text x="16" y="216" font-family="'Courier New', monospace" font-size="13" fill="#555">|  </text>
+  <text x="43" y="216" font-family="'Courier New', monospace" font-size="13" fill="#888">telegram </text>
+  <text x="110" y="216" font-family="'Courier New', monospace" font-size="13" fill="#4a9eff">@hanifsetyananda</text>
+ 
+  <!-- Divider bottom -->
+  <text x="16" y="236" font-family="'Courier New', monospace" font-size="13" fill="#3a3a3a">+----------------------------------------------------------+</text>
+ 
 
   <!-- Cursor -->
-  <text x="20" y="258" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#555">$</text>
-  <rect x="34" y="246" width="8" height="14" fill="#eee" opacity="0.8">
+  <text x="20" y="258" font-family="'Courier New', Consolas, monospace" font-size="14" fill="#0cce2dff">$</text>
+  <rect x="34" y="246" width="8" height="14" fill="#0cce2dff" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
