@@ -1,28 +1,17 @@
 <div align="center">
-<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
-  <image href="assets/johan.gif" width="100%" height="300" preserveAspectRatio="xMidYMid slice" />
-  <rect width="100%" height="300" fill="black" fill-opacity="0.7" />
-  <text
-    x="50%"
-    y="50%"
-    dominant-baseline="middle"
-    text-anchor="middle"
-    fill="white"
-    font-size="32"
-    font-weight="700"
-    font-family="'Source Code Pro', monospace"
-  >Hanif Setyananda</text>
-</svg>
+<img src="assets/johan.gif" width="100%" />
+<h1>Hanif Setyananda</h1>
 </div>
+
 <!-- ROW 1: hand.gif | about me -->
 
-<table border="0">
+<table>
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="assets/hand.gif" width="200" height="280" />
+<img src="assets/hand.gif" width="200" />
 </td>
 <td width="70%">
-<img src="assets/about-me.svg"  height="100%"/>
+<img src="assets/about-me.svg" width="100%" />
 </td>
 </tr>
 </table>
@@ -31,13 +20,13 @@
 
 <!-- ROW 2: tech stack | hold.gif -->
 
-<table border="0">
+<table>
 <tr>
-<td width="70%">
+<td width="60%">
 <img src="assets/tech-stack.svg" width="100%" />
 </td>
-<td width="30%" align="center" valign="middle">
-<img src="assets/hold.gif" width="200" height="280"/>
+<td width="40%" align="center" valign="middle">
+<img src="assets/hold.gif" width="100%" />
 </td>
 </tr>
 </table>
