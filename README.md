@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_cropped.gif" width="100%" alt="Hanif Setyananda Banner" />
+  <img src="assets/banner.gif" width="100%" alt="Hanif Setyananda Banner" />
 </div>
 
 <br/>
