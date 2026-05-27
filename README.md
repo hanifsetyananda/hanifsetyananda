@@ -2,6 +2,8 @@
   <img src="assets/banner_cropped.gif" width="100%" alt="Hanif Setyananda Banner" />
 </div>
 
+<br/>
+
 <!-- ROW 1: hand.gif | about me -->
 
 <table border="0" width="100%">
