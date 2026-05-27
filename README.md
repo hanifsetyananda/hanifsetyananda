@@ -4,13 +4,13 @@
 
 <!-- ROW 1: hand.gif | about me -->
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
-<img src="assets/hand.gif" width="200" height="280" />
+<td width="25%" align="center" valign="middle">
+<img src="assets/hand.gif" width="100%" />
 </td>
-<td width="70%">
-<img src="assets/about-me.svg"  height="100%"/>
+<td width="75%" valign="middle">
+<img src="assets/about-me.svg" width="100%" />
 </td>
 </tr>
 </table>
@@ -19,13 +19,13 @@
 
 <!-- ROW 2: tech stack | hold.gif -->
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="70%">
+<td width="75%" valign="middle">
 <img src="assets/tech-stack.svg" width="100%" />
 </td>
-<td width="30%" align="center" valign="middle">
-<img src="assets/hold.gif" width="200" height="280"/>
+<td width="25%" align="center" valign="middle">
+<img src="assets/hold.gif" width="100%" />
 </td>
 </tr>
 </table>
