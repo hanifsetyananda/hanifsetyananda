@@ -1,17 +1,16 @@
 <div align="center">
-<img src="assets/johan.gif" width="100%" />
-<h1>Hanif Setyananda</h1>
+  <img src="assets/banner_cropped.gif" width="100%" alt="Hanif Setyananda Banner" />
 </div>
 
 <!-- ROW 1: hand.gif | about me -->
 
-<table>
+<table border="0">
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="assets/hand.gif" width="200" />
+<img src="assets/hand.gif" width="200" height="280" />
 </td>
 <td width="70%">
-<img src="assets/about-me.svg" width="100%" />
+<img src="assets/about-me.svg"  height="100%"/>
 </td>
 </tr>
 </table>
@@ -20,13 +19,13 @@
 
 <!-- ROW 2: tech stack | hold.gif -->
 
-<table>
+<table border="0">
 <tr>
-<td width="60%">
+<td width="70%">
 <img src="assets/tech-stack.svg" width="100%" />
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="assets/hold.gif" width="100%" />
+<td width="30%" align="center" valign="middle">
+<img src="assets/hold.gif" width="200" height="280"/>
 </td>
 </tr>
 </table>
