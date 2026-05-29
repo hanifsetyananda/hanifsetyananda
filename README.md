@@ -36,7 +36,7 @@
 
 <div align="center">
 
-#### idk bout these stats, they look cool so i slap em onto my homepage
+#### idk bout these stats, they look cool so i slapped em onto my homepage
 
 <div align="center">
 
