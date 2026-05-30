@@ -38,6 +38,8 @@
 
 #### idk bout these stats, they look cool so i slapped em onto my homepage
 
+<small>Last updated: kept alive for GitHub presence.</small>
+
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-111?style=flat-square&logo=go&logoColor=white)
