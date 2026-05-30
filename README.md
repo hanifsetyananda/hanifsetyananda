@@ -38,7 +38,7 @@
 
 #### idk bout these stats, they look cool so i slapped em onto my homepage
 
-<small>Last updated: kept alive for GitHub presence.</small>
+<small>Last updated.</small>
 
 <div align="center">
 
